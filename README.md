@@ -7,7 +7,7 @@ The entire program was written in Python and ran in a Jupyter notebook. We learn
 
 I wanted to take this course to learn about computational modeling. Dr. Titus told me a lot about this course, which piqued my interest. I had taken a few coding classes in high school, so I was worried that I wouldn't be able to keep up, but Dr. Titus assured me that I would be fine.
 
-I want to thank Dr. Aaron Titus for his patience and guidance throughout the entire process.	
+I want to thank Dr. Aaron Titus for teaching me and guiding me throughout the entire process.
 
 
 **Notebook:**
@@ -15,6 +15,7 @@ I want to thank Dr. Aaron Titus for his patience and guidance throughout the ent
 [Exploration of Neon](https://github.com/clinden7/CP-Portfolio-/blob/3df89dcb6cafbc2790706f0add30208287a9101b/Exploration-of-Neon.ipynb)
 
 [Enzyme Kinetics](https://github.com/clinden7/CP-Portfolio-/blob/60779ccf880b4e386bbf270acae5c45670bc421f/Enzyme-Kinetics.ipynb)
+* This project explored the relationship between Enzyme, Substrate, and product concentrations. ODEs (differential equations) were used based on the ideal reaction. 
 
 [Wind Exploration of Mike Trout's homerun](https://github.com/clinden7/CP-Portfolio-/blob/3df89dcb6cafbc2790706f0add30208287a9101b/Wind-Exploration.ipynb)
 
