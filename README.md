@@ -10,4 +10,12 @@ I wanted to take this course to learn about computational modeling. Dr. Titus to
 I want to thank Dr. Aaron Titus for his patience and guidance throughout the entire process.	
 
 
+[Exploration of Neon](https://github.com/clinden7/CP-Portfolio-/blob/3df89dcb6cafbc2790706f0add30208287a9101b/Exploration-of-Neon.ipynb)
+
 [Enzyme Kinetics](https://github.com/clinden7/CP-Portfolio-/blob/60779ccf880b4e386bbf270acae5c45670bc421f/Enzyme-Kinetics.ipynb)
+
+[Wind Exploration of Mike Trout's homerun](https://github.com/clinden7/CP-Portfolio-/blob/3df89dcb6cafbc2790706f0add30208287a9101b/Wind-Exploration.ipynb)
+
+[Oscillating Chemical Reactions](https://github.com/clinden7/CP-Portfolio-/blob/3df89dcb6cafbc2790706f0add30208287a9101b/Oscillating-Chemical-Reactions.ipynb)
+
+
