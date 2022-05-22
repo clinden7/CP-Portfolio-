@@ -22,7 +22,7 @@ I want to thank Dr. Aaron Titus for teaching me and guiding me throughout the en
 * 
 
 
-[Normal Modes of $CO_2&](https://github.com/clinden7/CP-Portfolio-/blob/8cdc1370ac6d15567a9911109bbf442bd6b2bb31/Normal-Modes-of-CO2.ipynb)
+[Normal Modes of $CO_2$](https://github.com/clinden7/CP-Portfolio-/blob/8cdc1370ac6d15567a9911109bbf442bd6b2bb31/Normal-Modes-of-CO2.ipynb)
 
 [Oscillating Chemical Reactions](https://github.com/clinden7/CP-Portfolio-/blob/3df89dcb6cafbc2790706f0add30208287a9101b/Oscillating-Chemical-Reactions.ipynb)
 
