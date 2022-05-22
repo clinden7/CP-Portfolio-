@@ -6,3 +6,5 @@ This project-based computational physics course taught me how to build, solve, v
 The entire program was written in Python and ran in a Jupyter notebook. We learned about ODEs, lists, arrays, curve fitting, and local and global variables. Through projects, we were also able to explore and investigate scientific problems. I researched different projects in physics, biochemistry, and chemistry projects.
 
 I wanted to take this course to learn about computational modeling. Dr. Titus told me a lot about this course, which piqued my interest. I had taken a few coding classes in high school, so I was worried that I wouldn't be able to keep up, but Dr. Titus assured me that I would be fine.
+
+I want to thank Dr. Aaron Titus for his patience and guidance throughout the entire process.	
