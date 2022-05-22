@@ -8,3 +8,6 @@ The entire program was written in Python and ran in a Jupyter notebook. We learn
 I wanted to take this course to learn about computational modeling. Dr. Titus told me a lot about this course, which piqued my interest. I had taken a few coding classes in high school, so I was worried that I wouldn't be able to keep up, but Dr. Titus assured me that I would be fine.
 
 I want to thank Dr. Aaron Titus for his patience and guidance throughout the entire process.	
+
+
+[Enzyme Kinetics](https://github.com/clinden7/CP-Portfolio-/blob/60779ccf880b4e386bbf270acae5c45670bc421f/Enzyme-Kinetics.ipynb)
