@@ -13,11 +13,13 @@ I want to thank Dr. Aaron Titus for teaching me and guiding me throughout the en
 **Notebook:**
 
 [Exploration of Neon](https://github.com/clinden7/CP-Portfolio-/blob/3df89dcb6cafbc2790706f0add30208287a9101b/Exploration-of-Neon.ipynb)
+* Neon atoms were explored using the Ideal Gas Law model. Diving into this project by making predictions on what will happen when changing the system's temperature.
 
 [Enzyme Kinetics](https://github.com/clinden7/CP-Portfolio-/blob/60779ccf880b4e386bbf270acae5c45670bc421f/Enzyme-Kinetics.ipynb)
 * This project explored the relationship between Enzyme, Substrate, and product concentrations. ODEs (differential equations) were used based on the ideal reaction. 
 
 [Wind Exploration of Mike Trout's homerun](https://github.com/clinden7/CP-Portfolio-/blob/3df89dcb6cafbc2790706f0add30208287a9101b/Wind-Exploration.ipynb)
+* 
 
 [Oscillating Chemical Reactions](https://github.com/clinden7/CP-Portfolio-/blob/3df89dcb6cafbc2790706f0add30208287a9101b/Oscillating-Chemical-Reactions.ipynb)
 
