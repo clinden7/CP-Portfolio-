@@ -1,5 +1,5 @@
 # Computational Physics Portfolio
-
+## Courtney Linden
 
 This project-based computational physics course taught me how to build, solve, validate, and communicate mathematical models of physical systems. Throughout the semester, we studied techniques for solving ordinary and partial differential equations, data analysis, error analysis, and parallel computing. Everything I learned in the course can be applied to various fields.
 
