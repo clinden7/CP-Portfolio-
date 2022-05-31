@@ -13,18 +13,19 @@ I want to thank Dr. Aaron Titus for teaching me and guiding me throughout the en
 **Notebook:**
 
 [Exploration of Neon](https://github.com/clinden7/CP-Portfolio-/blob/3df89dcb6cafbc2790706f0add30208287a9101b/Exploration-of-Neon.ipynb)
-* Neon atoms were explored using the Ideal Gas Law model. Diving into this project by making predictions on what will happen when changing the system's temperature.
+* Neon atoms were explored using the Ideal Gas Law model. Finally, we will make predictions based on changing the system's temperature. 
 
 [Enzyme Kinetics](https://github.com/clinden7/CP-Portfolio-/blob/60779ccf880b4e386bbf270acae5c45670bc421f/Enzyme-Kinetics.ipynb)
 * This project explored the relationship between Enzyme, Substrate, and product concentrations. ODEs (differential equations) were used based on the ideal reaction. 
 
 [Wind Exploration of Mike Trout's homerun](https://github.com/clinden7/CP-Portfolio-/blob/3df89dcb6cafbc2790706f0add30208287a9101b/Wind-Exploration.ipynb)
-* 
+* Wind and Magnus were already incorporated into the simulation. However, the wind was incorporated, and comparisons were made based on how far the ball would go.
 
 [Normal Modes of CO2](https://github.com/clinden7/CP-Portfolio-/blob/8cdc1370ac6d15567a9911109bbf442bd6b2bb31/Normal-Modes-of-CO2.ipynb)
-* 
+* The vibrational modes of Carbon Dioxide were explored by modeling the compound as a ball and spring model. Bond stiffness was determined by trial and error. Comparisons were made regarding the different modes and if they were what was expected. 
 
 [Oscillating Chemical Reactions](https://github.com/clinden7/CP-Portfolio-/blob/3df89dcb6cafbc2790706f0add30208287a9101b/Oscillating-Chemical-Reactions.ipynb)
-* 
+* Chlorine Dioxide-Iodine Malonic Reaction oscillates. However, it can be either a fixed point or oscillates. 
+
 
 
