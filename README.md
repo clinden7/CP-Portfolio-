@@ -25,7 +25,7 @@ I want to thank Dr. Aaron Titus for teaching me and guiding me throughout the en
 * The vibrational modes of Carbon Dioxide were explored by modeling the compound as a ball and spring model. Bond stiffness was determined by trial and error. Comparisons were made regarding the different modes and if they were what was expected. 
 
 [Oscillating Chemical Reactions](https://github.com/clinden7/CP-Portfolio-/blob/3df89dcb6cafbc2790706f0add30208287a9101b/Oscillating-Chemical-Reactions.ipynb)
-* Chlorine Dioxide-Iodine Malonic Reaction oscillates. However, we will explore what makes it a fixed versus oscillating. 
+* Chlorine Dioxide-Iodine Malonic Reaction oscillates. However, we will explore what makes it a fixed versus oscillating reaction.
 
 
 
